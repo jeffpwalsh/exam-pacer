@@ -1,0 +1,31 @@
+p,
+h1 {
+  display: inline;
+}
+
+.body {
+  margin-bottom: 30px;
+}
+
+#bar {
+  border: 1px solid white;
+  width: 502px;
+  height: 102px;
+  /* background-color: #fff; */
+  text-align: center;
+}
+
+#progression {
+  margin-right: auto;
+
+  text-align: center;
+}
+
+#countDisplay3 {
+  color: crimson;
+}
+input {
+  min-width: max-content;
+  padding-right: 20px;
+  text-align: center;
+}
