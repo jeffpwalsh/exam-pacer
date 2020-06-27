@@ -1,5 +1,7 @@
 # Exam Pacer
- - live link https://jeffpwalsh.github.io/L1T15C1_ECMAScript/Index.html
+ - live link http://exam.assist.jeffwalsh.co.za/
+ - ![EXAM PACER RENDER](/render.PNG)
+Format: ![Alt Text](url)
  
  ## Description
  - This application assists students writing exams that need to pace themselves to finish on time
@@ -38,7 +40,7 @@
      
 ## Live Link
 
-- https://jeffpwalsh.github.io/myCV/index2.html
+- http://exam.assist.jeffwalsh.co.za/
   
  ## Log
  26/06/2020
