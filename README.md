@@ -1,7 +1,9 @@
 # Exam Pacer
  - live link http://exam.assist.jeffwalsh.co.za/
- - ![EXAM PACER RENDER](/render.PNG)
-Format: ![Alt Text](url)
+ 
+ 
+ ![EXAM PACER RENDER](/render.PNG)
+ 
  
  ## Description
  - This application assists students writing exams that need to pace themselves to finish on time
