@@ -56,9 +56,9 @@ function myFunction() {
         switchCounter = switchCounter + 0.1;
         questionCounter = questionCounter + 0.1;
 
-        console.log(`${switchCounter} switch counter`);
-        console.log(`${questionCounter} question counter`);
-        console.log(`${totalSeconds} total seconds`);
+        // console.log(`${switchCounter} switch counter`);
+        // console.log(`${questionCounter} question counter`);
+        // console.log(`${totalSeconds} total seconds`);
 
         if (switchCounter >= 60) {
           totalMinutes = totalMinutes - 1;
