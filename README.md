@@ -1,5 +1,5 @@
 # Exam Pacer
- - live link http://exam.pacer.jeffwalsh.co.za/
+ - live link https://jeffpwalsh.github.io/exam-pacer/index.html
  
  
  ![EXAM PACER RENDER](/render.PNG)
@@ -42,7 +42,7 @@
      
 ## Live Link
 
-- http://exam.pacer.jeffwalsh.co.za/
+- https://jeffpwalsh.github.io/exam-pacer/index.html
   
  ## Log
  26/06/2020
