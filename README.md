@@ -1,5 +1,5 @@
 # Exam Pacer
- - live link https://jeffpwalsh.github.io/exam-pacer/
+ - live link http://exam.pacer.jeffwalsh.co.za/
  
  
  ![EXAM PACER RENDER](/render.PNG)
@@ -42,13 +42,14 @@
      
 ## Live Link
 
-- https://jeffpwalsh.github.io/exam-pacer/
+- http://exam.pacer.jeffwalsh.co.za/
   
  ## Log
  26/06/2020
  
 - Main branch commit
 - README created
+- Changed hosting link
 
 
 
