@@ -1,0 +1,11 @@
+{
+  "name": "exam_pacer",
+  "version": "1.0.0",
+  "description": "- live link http://exam.pacer.jeffwalsh.co.za/",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
